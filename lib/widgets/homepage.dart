@@ -65,7 +65,7 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'asset/demo1.png', // Fixed the asset path here
+              'asset/flutter.jpg', // Fixed the asset path here
             ),
             const SizedBox(height: 7),
             const Text(
